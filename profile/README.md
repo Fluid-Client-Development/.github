@@ -20,4 +20,4 @@
   
   # Skills
   
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,kotlin,python,html,css,javascript,typescript,c,bash,powershell&includeNames=true"></p>
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,kotlin,python,html,css,javascript,typescript,c,php,react,bash,powershell&includeNames=true"></p>

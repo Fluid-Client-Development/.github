@@ -16,6 +16,8 @@
 
 <p align = "center"><a href="https://github.com/spetterman66"><img src = "https://github-widgetbox.vercel.app/api/profile?username=spetterman66&data=followers,repositories,stars,commits&theme=viridescent"></p></a>
 
+Tip: Click on the name to go to their github accounts!
+
   ---
   
   # Skills

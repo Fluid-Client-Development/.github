@@ -8,13 +8,13 @@
 
   
 
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=Quantamyt&data=followers,repositories,stars,commits&theme=viridescent"></p>
+<p align = "center"><a href="https://github.com/Quantamyt/"><img src = "https://github-widgetbox.vercel.app/api/profile?username=Quantamyt&data=followers,repositories,stars,commits&theme=viridescent"></p></a>
 
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=GamerHun1238&data=followers,repositories,stars,commits&theme=viridescent"></p>
+<p align = "center"><a href="https://github.com/GamerHun1238/"><img src = "https://github-widgetbox.vercel.app/api/profile?username=GamerHun1238&data=followers,repositories,stars,commits&theme=viridescent"></p></a>
 
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=Slddev&data=followers,repositories,stars,commits&theme=viridescent"></p>
+<p align = "center"><a href="https://github.com/Slddev"><img src = "https://github-widgetbox.vercel.app/api/profile?username=Slddev&data=followers,repositories,stars,commits&theme=viridescent"></p></a>
 
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=spetterman66&data=followers,repositories,stars,commits&theme=viridescent"></p>
+<p align = "center"><a href="https://github.com/spetterman66"><img src = "https://github-widgetbox.vercel.app/api/profile?username=spetterman66&data=followers,repositories,stars,commits&theme=viridescent"></p></a>
 
   ---
   

@@ -25,3 +25,18 @@ Tip: Click on the name to go to their github accounts!
   # Skills
   
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,kotlin,python,html,css,javascript,typescript,c,php,react,bash,powershell&includeNames=true&theme=viridescent"></p>
+
+
+---
+
+# Whoever was here
+
+quantam was here!
+
+mbg was here!
+
+dávid was here!
+
+MaxJ was here!
+
+ryan was here!

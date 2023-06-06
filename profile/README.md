@@ -12,7 +12,7 @@
 
 <p align = "center"><a href="https://github.com/GamerHun1238/"><img src = "https://github-widgetbox.vercel.app/api/profile?username=GamerHun1238&data=followers,repositories,stars,commits&theme=viridescent"></p></a>
 
-<p align = "center"><a href="https://github.com/hamzaelasmar"><img src = "https://github-widgetbox.vercel.app/api/profile?username=MBG1337&data=followers,repositories,stars,commits&theme=viridescent"></p></a>
+<p align = "center"><a href="https://github.com/hamzaelasmar"><img src = "https://github-widgetbox.vercel.app/api/profile?username=hamzaelasmar&data=followers,repositories,stars,commits&theme=viridescent"></p></a>
 
 <p align = "center"><a href="https://github.com/MBG1337"><img src = "https://github-widgetbox.vercel.app/api/profile?username=MBG1337&data=followers,repositories,stars,commits&theme=viridescent"></p></a>
 

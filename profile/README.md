@@ -1,46 +1,39 @@
-<div align="center">
-  
-  ![image](https://github.com/Fluid-Client-Development/.github/blob/76db751efa35d3b6d575eac3599461c1b0d64514/profile/png_20230407_183044_0000.png)
+# Fluid Client
+
+![Fluid Client Logo](https://github.com/Fluid-Client-Development/.github/blob/76db751efa35d3b6d575eac3599461c1b0d64514/profile/png_20230407_183044_0000.png)
+
+Fluid Client is a performance-enhancing Minecraft client designed to optimize gameplay and provide an improved gaming experience. With a focus on efficiency, stability, and customization, Fluid Client aims to enhance both single-player and multiplayer gameplay without compromising the integrity of the Minecraft experience.
+
+## Features
+
+- **Performance Boost**: Fluid Client is optimized to reduce lag and improve FPS, leading to smoother gameplay on a wide range of hardware configurations.
+- **Customization**: Tailor your Minecraft experience with a range of customizable settings, including optimizations for visuals, rendering, and more.
+- **Compatibility**: Fluid Client is compatible with popular mod loaders and plugins, ensuring you can continue to enjoy your favorite mods and multiplayer servers.
+- **Stability**: Our client is built with stability in mind, reducing crashes and glitches for a more reliable gaming experience.
+- **Security**: Fluid Client prioritizes security and integrity, providing a safe platform for players to enjoy their Minecraft adventures.
+
+## Getting Started
+
+To get started with Fluid Client, follow these steps:
+
+1. **Download**: Download the latest release of Fluid Client from the [Releases](https://fluidclient.ovh) section.
+2. **Installation**: Follow the installation instructions provided in the release notes.
+3. **Configuration**: Customize your settings to optimize performance according to your preferences.
+4. **Launch**: Launch Minecraft using Fluid Client and start enjoying improved gameplay!
+
+## Contributing
+
+We welcome contributions from the Minecraft community! If you're interested in contributing to Fluid Client, please refer to our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to get started.
+
+## Support
+
+If you encounter any issues, have questions, or want to provide feedback, please create an [Issue in our Discord!](https://discord.gg/DUTSVgaKA5). We're here to help!
+
+## License
+
+Fluid Client is released under the [MIT License](LICENSE).
 
 ---
 
-# Collaborators
-
-  
-
-<p align = "center"><a href="https://github.com/Quantamyt/"><img src = "https://github-widgetbox.vercel.app/api/profile?username=Quantamyt&data=followers,repositories,stars,commits&theme=viridescent"></p></a>
-
-<p align = "center"><a href="https://github.com/GamerHun1238/"><img src = "https://github-widgetbox.vercel.app/api/profile?username=GamerHun1238&data=followers,repositories,stars,commits&theme=viridescent"></p></a>
-
-<p align = "center"><a href="https://github.com/hamzaelasmar"><img src = "https://github-widgetbox.vercel.app/api/profile?username=hamzaelasmar&data=followers,repositories,stars,commits&theme=viridescent"></p></a>
-
-<p align = "center"><a href="https://github.com/MBG1337"><img src = "https://github-widgetbox.vercel.app/api/profile?username=MBG1337&data=followers,repositories,stars,commits&theme=viridescent"></p></a>
-
-<p align = "center"><a href="https://github.com/Slddev"><img src = "https://github-widgetbox.vercel.app/api/profile?username=Slddev&data=followers,repositories,stars,commits&theme=viridescent"></p></a>
-
-<p align = "center"><a href="https://github.com/spetterman66"><img src = "https://github-widgetbox.vercel.app/api/profile?username=spetterman66&data=followers,repositories,stars,commits&theme=viridescent"></p></a>
-
-Tip: Click on the name to go to their github accounts!
-
-  ---
-  
-  # Skills
-  
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,kotlin,python,html,css,javascript,typescript,c,php,react,bash,powershell&includeNames=true&theme=viridescent"></p>
-
-
----
-
-# Whoever was here
-
-quantam was here!
-
-mbg was here!
-
-dávid was here!
-
-MaxJ was here!
-
-ryan was here!
-
-DM ME AT devidlol on Discord
+Designed and developed by the Fluid Client team.  
+Copyright © 2021-2023 Fluid Client Development.

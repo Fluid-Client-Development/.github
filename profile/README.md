@@ -31,7 +31,7 @@ If you encounter any issues, have questions, or want to provide feedback, please
 
 ## License
 
-Fluid Client is released under the [MIT License](LICENSE).
+You may not use, distribute, release this code unless you have **written** permission from me. No license = no permission. Read more at https://choosealicense.com/no-permission/
 
 ---
 

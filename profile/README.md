@@ -16,14 +16,14 @@ Fluid Client is the best free performance-enhancing Minecraft PvP client designe
 
 To get started with Fluid Client, follow these steps:
 
-1. **Download**: Download the latest release of Fluid Client from the [Releases](https://fluidclient.ovh) section.
+1. **Download**: Download the latest release of Fluid Client from the [website](https://fluidclient.ovh/download.html).
 2. **Installation**: Follow the installation instructions provided in the [installation help video](https://youtu.be/RgX9o5RiYP4).
 3. **Configuration**: Customize your settings to optimize performance according to your preferences.
 4. **Launch**: Launch Minecraft using Fluid Client and start enjoying improved gameplay!
 
 ## Support
 
-If you encounter any issues, have questions, or want to provide feedback, please create an [ticket in our Discord server!](https://discord.gg/DUTSVgaKA5). We're here to help!
+If you encounter any issues, have questions, or want to provide feedback, please create a [ticket in our Discord server!](https://discord.gg/DUTSVgaKA5) We're here to help!
 
 ## License
 
@@ -32,4 +32,4 @@ You may not use, distribute, release this code unless you have **written** permi
 ---
 
 Designed and developed by the Fluid Client team.  
-Copyright © 2021-2023 Fluid Client Development.
+Copyright © 2021-2024 Fluid Client Development.

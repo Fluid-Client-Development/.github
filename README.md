@@ -1,6 +1,6 @@
 <div align="center">
   
-  ## Welcome to Fluid Client's GitHub repo! Download Fluid Client at https://fluidclient.ovh
+  ## Welcome to Fluid Client's GitHub repo! Download Fluid Client at https://fluidclient.ovh/download.html
 ---
 
 # Collaborators

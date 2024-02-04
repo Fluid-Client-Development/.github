@@ -1,7 +1,6 @@
 <div align="center">
   
-  ## Welcome to Fluid Client's GitHub repo! Download Fluid Client at https://fluidclient.ovh/download.html
----
+  ### Fluid Client is the fastest free FPS boosting Premium & Non-Premium Minecraft 1.8.9 PvP client. Download Fluid Client now at https://fluidclient.ovh! Join the Discord server at https://discord.gg/F38PwE4YQA.
 
 # Collaborators
   

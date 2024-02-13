@@ -1,4 +1,4 @@
-# Fluid Client
+# Fluid Client: The best FPS boosting Minecraft 1.8.9 PvP client for Non-Premium and Premium.
 
 ![Fluid Client Logo](https://github.com/Fluid-Client-Development/.github/blob/76db751efa35d3b6d575eac3599461c1b0d64514/profile/png_20230407_183044_0000.png)
 

@@ -40,3 +40,8 @@ Review us on TrustPilot ([https://trustpilot.com/review/fluidclient.ovh](https:/
 Contact us at contact@fluidclient.ovh /
 Follow us on X ([https://twitter.com/fluid_client](https://twitter.com/fluid_client)) /
 Follow us on Instagram ([https://instagram.com/@fluidclient](https://www.instagram.com/fluidclient/))
+
+
+---
+
+<center>A subsidiary of Atomic Interactive. </center>

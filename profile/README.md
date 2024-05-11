@@ -37,6 +37,8 @@ Designed and developed by the Fluid Client team.
 Copyright © 2021-2024 Fluid Client Development.
 
 **A subsidiary of Atomic Interactive.**
+
+
 Review us on TrustPilot ([https://trustpilot.com/review/fluidclient.ovh](https://trustpilot.com/review/fluidclient.ovh)) /
 Contact us at contact@fluidclient.ovh /
 Follow us on X ([https://twitter.com/fluid_client](https://twitter.com/fluid_client)) /
